@@ -6,6 +6,6 @@ SKPSMTPMessage is a quick and dirty class which implements a basic SMTP client f
 
 = Integration with your App =
 
-Add the NSStream+SKPSMTPExtensions.* and SKPSMTPMessage.* classes to your project. Refer to SMTPSenderAppDelegate.m for a quick example of how to use the class.
+Add the NSStream+SKPSMTPExtensions.[m|h] and SKPSMTPMessage.[m|h] classes to your project. Refer to SMTPSenderAppDelegate.m for a quick example of how to use the class.
 
 I'll document this code using Doxygen soon. Until then, feel free to email me at ibaird -at- gmail -dot- com for more info.
