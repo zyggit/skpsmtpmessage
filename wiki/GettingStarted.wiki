@@ -2,7 +2,7 @@
 
 = Introduction =
 
-SKPSMTPMessage is a quick and dirty class which implements a basic SMTP client for the iPhone. If you just want to post a plain text or HTML message on the iPhone, use -[UIApplication openURL:] (these are not the droids you're looking for, move along, move along). However, if you're trying to attach a file to an email, or do other crazy stuff, you'll want to use this class.
+SKPSMTPMessage is a quick and dirty class which implements a basic SMTP client for the iPhone. If you just want to post a plain text or HTML message on the iPhone, use {{{-[UIApplication openURL:]}}} (these are not the droids you're looking for, move along, move along). However, if you're trying to attach a file to an email, or do other crazy stuff, you'll want to use this class.
 
 = Integration with your App =
 
